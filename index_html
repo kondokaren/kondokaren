@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div class="from">
+        <div class="text">
+            <h2>Karen Kondo | 近藤楓恋</h2>
+            <p>開志専門職大学情報学部2Bクラス
+                現在は臨地実務実習に行けるように日々一生懸命頑張っています.
+                <img src="img/girl-removebg-preview.png" width="270" height="200" alt="">
+            </p>
+            <p>開志専門職大学 情報学部2年のかれんです。<br>
+                現在は臨地実務実習に行けるように日々一生懸命頑張っています。
+                学校と両立させながら、派遣会社Mで、ホテルでの宴会・パーティーでのサービスでアルバイトしてます。
+            </p>
+            <p>
+                サークルはLABサークルに所属しています。
+                趣味としては、好きなアニメのYouTubeやインスタ,Xを見ることが好きです。
+                インスタのフォロワーは、1,000人以上いるので興味のある方はフォローしてください!
+            </p>
+            <p>
+                本日は、このような貴重な時間を頂きありがとうございます。どうぞよろしくお願い致します。</p>
+        </div>
+        <div class="social-icon">
+            <div class="home">
+                <a href="index_html">ホーム</a>
+            </div>
+            <div class="research">
+                <a href="work_html">研究</a>
+            </div>
+            <div class="contact">
+                <a href="contact_html">Contact</a>
+            </div>
+        </div>
+        <center>copyright &#xa9 2023-2027</center>
+    </div>
+</body>
+</html>
